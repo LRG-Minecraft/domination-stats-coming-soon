@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/domination-stats-coming-soon/static/css/main.04799214.css",
+    "main.js": "/domination-stats-coming-soon/static/js/main.ce14f031.js",
+    "static/js/787.6f3c6735.chunk.js": "/domination-stats-coming-soon/static/js/787.6f3c6735.chunk.js",
+    "static/media/lrg.png": "/domination-stats-coming-soon/static/media/lrg.7f1c82b2fb9ebd670cf5.png",
+    "index.html": "/domination-stats-coming-soon/index.html",
+    "main.04799214.css.map": "/domination-stats-coming-soon/static/css/main.04799214.css.map",
+    "main.ce14f031.js.map": "/domination-stats-coming-soon/static/js/main.ce14f031.js.map",
+    "787.6f3c6735.chunk.js.map": "/domination-stats-coming-soon/static/js/787.6f3c6735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04799214.css",
+    "static/js/main.ce14f031.js"
+  ]
+}
