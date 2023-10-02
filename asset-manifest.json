@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/domination-stats-coming-soon/static/css/main.04799214.css",
-    "main.js": "/domination-stats-coming-soon/static/js/main.ce14f031.js",
-    "static/js/787.6f3c6735.chunk.js": "/domination-stats-coming-soon/static/js/787.6f3c6735.chunk.js",
-    "static/media/lrg.png": "/domination-stats-coming-soon/static/media/lrg.7f1c82b2fb9ebd670cf5.png",
-    "index.html": "/domination-stats-coming-soon/index.html",
-    "main.04799214.css.map": "/domination-stats-coming-soon/static/css/main.04799214.css.map",
-    "main.ce14f031.js.map": "/domination-stats-coming-soon/static/js/main.ce14f031.js.map",
-    "787.6f3c6735.chunk.js.map": "/domination-stats-coming-soon/static/js/787.6f3c6735.chunk.js.map"
+    "main.css": "/static/css/main.04799214.css",
+    "main.js": "/static/js/main.12b33605.js",
+    "static/js/787.6f3c6735.chunk.js": "/static/js/787.6f3c6735.chunk.js",
+    "static/media/lrg.png": "/static/media/lrg.7f1c82b2fb9ebd670cf5.png",
+    "index.html": "/index.html",
+    "main.04799214.css.map": "/static/css/main.04799214.css.map",
+    "main.12b33605.js.map": "/static/js/main.12b33605.js.map",
+    "787.6f3c6735.chunk.js.map": "/static/js/787.6f3c6735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04799214.css",
-    "static/js/main.ce14f031.js"
+    "static/js/main.12b33605.js"
   ]
 }
