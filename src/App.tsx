@@ -1,26 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {FaDiscord} from "react-icons/fa";
+import lrg from "./lrg.png";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+            <div className="header">
+                <span className="service-status">準備中</span>
+                <span className="service-name">Domination Stats</span>
+                <a className="discord-link" href="https://discord.gg/emc8GpVhHh">
+                    <FaDiscord size={32} color="white"/>
+                </a>
+            </div>
+            <div className="copy-right">
+                <img src={lrg} className="copy-right-logo" alt="logo"/>
+                <span className="copy-right-text">© 2023 LRG Minecraft Server.</span>
+            </div>
+        </div>
+    );
 }
 
 export default App;
